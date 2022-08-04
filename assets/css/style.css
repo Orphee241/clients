@@ -834,6 +834,15 @@ a:hover {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.about-me p{
+  font-weight: 300;
+}
+.about-info span{
+  font-weight: 400;
+}
+.more-info p, li{
+  font-weight: 400;
+}
 .about-mf .box-shadow-full {
   padding-top: 4rem;
   padding-bottom: 4rem;
